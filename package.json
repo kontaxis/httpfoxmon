@@ -1,0 +1,12 @@
+{
+  "name": "httpfoxmon",
+  "title": "HTTP Traffic Monitor",
+  "id": "jid1-J9xuumB2tugA3A",
+  "description": "Monitors HTTP traffic and dumps details and statistics",
+  "author": "Georgios Kontaxis",
+  "permissions": { "private-browsing": true },
+  "license": "GPL 3",
+  "version": "0.1",
+  "icon": "data/icon-48.png",
+  "icon64": "data/icon-64.png"
+}
